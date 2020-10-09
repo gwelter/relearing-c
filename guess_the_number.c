@@ -30,4 +30,5 @@ int main() {
             --tries;
         }
     } while (tries > 0 && !guessed);
+    return 0;
 }
